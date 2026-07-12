@@ -51,16 +51,44 @@ My background combines healthcare operations leadership with modern business ana
 
 # Portfolio Projects
 
-## 🚧 Client Operations Dashboard *(In Progress)*
+## ✅ [Client Prioritization & Operations Dashboard](./projects/client-operations-dashboard)
 
-A comprehensive Excel-based operational reporting solution designed to automate client prioritization, monitor engagement, and improve reporting efficiency.
+![Client Prioritization & Operations Dashboard](./projects/client-operations-dashboard/images/dashboard-overview.png)
 
-**Skills**
-- Excel
+A complete client-operations reporting system built with Python, Microsoft Excel, and Power Query using fully fictional data.
+
+The solution centralizes client, contact, staff, and program information; applies operational business rules; generates automated priority and inactivity queues; monitors staff capacity; and identifies data-quality exceptions.
+
+**Key Features**
+
+- Executive dashboard with operational KPI cards
+- Automated Critical and High Priority Queue
+- Automated Inactivity Review Queue
+- Program-specific contact and inactivity thresholds
+- Monthly contact-volume analysis
+- Staff caseload versus capacity monitoring
+- Client-level data-quality exception reporting
+- Duplicate and invalid-reference validation
+- Refreshable Power Query reporting workflow
+- Workbook navigation and user instructions
+- Python-generated fictional datasets
+- Complete requirements, architecture, and design documentation
+
+**Skills and Technologies**
+
+- Python
+- Microsoft Excel
 - Power Query
+- Data Modeling
+- Business-Rule Development
 - XLOOKUP
 - Dynamic Arrays
 - Dashboard Design
+- Data-Quality Validation
+- Git and GitHub
+- Technical Documentation
+
+[View the complete project](./projects/client-operations-dashboard)
 
 ---
 
@@ -69,9 +97,11 @@ A comprehensive Excel-based operational reporting solution designed to automate 
 A recreated healthcare reimbursement reporting solution demonstrating claims monitoring, reimbursement tracking, KPI reporting, and operational dashboards.
 
 **Skills**
+
 - Excel
 - Tableau
 - Claims Analytics
+- Revenue Cycle Analytics
 - KPI Reporting
 
 ---
@@ -81,8 +111,10 @@ A recreated healthcare reimbursement reporting solution demonstrating claims mon
 A Power BI dashboard analyzing provider performance, operational trends, demographics, and key performance indicators using fictional datasets.
 
 **Skills**
+
 - Power BI
 - DAX
+- Data Modeling
 - Data Visualization
 - Reporting
 
@@ -90,13 +122,17 @@ A Power BI dashboard analyzing provider performance, operational trends, demogra
 
 ## 🚧 Data Quality Monitoring System *(Planned)*
 
-An automated reporting solution designed to identify data quality issues, monitor completeness, and improve operational reporting consistency.
+An automated reporting solution designed to identify data-quality issues, monitor completeness, validate relationships, and improve operational reporting consistency.
 
 **Skills**
+
 - Excel
 - Power Query
 - Data Validation
+- Referential-Integrity Testing
 - Reporting Automation
+
+---
 
 ---
 
